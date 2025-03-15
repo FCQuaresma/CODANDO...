@@ -1,8 +1,6 @@
-n1 = str(input('Digite um valor em metros: '))
+n1 = float(input('Digite a priemira nota: '))
+n2 = float(input('Digite a segunda nota: '))
 
-cm = n1/0.01
+n3 = (n1+n2)/2
 
-mm = n1/0.001
-
-print(' o valor em centimetros é {} e em milimetros é {]'.format(cm, mm))
-
+print('A media do aluno é {:.1f}.'.format(n3))
