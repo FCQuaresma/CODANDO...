@@ -7,3 +7,12 @@ h1 {
     color: red;
     font-family: sans-serif;
 }
+
+
+div  p {
+    border: 1 solid pink;
+    margin: 5px;
+    padding: 5px;
+    text-shadow: darkorchid;
+    text-align: right;
+}
