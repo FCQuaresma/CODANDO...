@@ -1,8 +1,8 @@
-n1 = str(input('Digite um valor em metros: '))
+medida = float(input('Digite um valor em metros: '))
 
-cm = n1/0.01
+cm = medida*100
 
-mm = n1/0.001
+mm = medida*1000
 
-print(' o valor em centimetros é {} e em milimetros é {]'.format(cm, mm))
+print(' o valor em centimetros é {:.1f} e em milimetros é {:.1f}'.format(cm, mm))
 
