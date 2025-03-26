@@ -30,4 +30,4 @@ frase = 'Curso em Video Python'
 
 # cria uma lista dividida
 
-print(frase.split())
+'''print(frase.split())'''
