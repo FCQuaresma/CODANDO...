@@ -1,6 +1,1 @@
-//aula 1
-
-valorwons = prompt("Digite um valor em wons")
-alert("valorwons")
-umwon = 0.0040
-alert(valorwons * umwon)
+// todos os exercicios feitos na imersão estão no perfil do LINKEDIN
