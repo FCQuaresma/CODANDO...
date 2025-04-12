@@ -4,7 +4,7 @@ financ = int(input('Quantos anos de financiamento? R$: '))
 
 prestacao = vcasa / (financ * 12)
 minimo = sal * 30 / 100
-print('Para pagar uma casa de R${:.2f} em {} anos, aprestaçao sera de R$ : {:.2f}'.format(vcasa, financ, prestacao ))
+print('Para pagar uma casa de R${:.2f} em {} anos, a prestaçao sera de R$ : {:.2f}'.format(vcasa, financ, prestacao ))
 
 #print('COMPARANDO tem que oaga {} e o minimo é {} '.format(prestacao, minimo))
 
