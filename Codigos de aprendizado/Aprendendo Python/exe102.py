@@ -40,6 +40,7 @@ elif opcao == 4:
 else:
     total = 0
     print(f'OPCAO INVALIDA DE PAGAMENTO. TENTE NOVAMENTE !')
+    
 print(f'Sua compra de R$ {preco:.2f} vai custar R$ {total:.2f} no final.')
 
 
